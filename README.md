@@ -1,7 +1,7 @@
 oozie-connector-python
 =====================
 
-Hadoop Hive Connector for Jython
+Hadoop Oozie Connector for Python
 
 Files:
 config.py - Connection Settings
